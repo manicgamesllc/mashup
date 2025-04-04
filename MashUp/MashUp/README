@@ -1,0 +1,22 @@
+Here are the 5 things that need to be done:
+
+Daily Puzzle Word Updates
+-Develop easy mechanism to update the daily puzzle words each day
+--Relevant Files (GameViewModel.swift)
+
+Daily Lock-Out
+-Confirm that the user can only play the game once a day. 
+-Confirm they are able to play when the new puzzle is released
+--Relevant Files (GameViewModel.swift, ContentView.swift, DraggableArea.swift, CompletedGameView.swift)
+
+Statistics
+-Confirm that the statistics are being recorded correctly
+--Relevant Files (GameStatistics.swift, StatisticsView.swift, GameViewModel.swift)
+
+Share Results
+-Confirm that the share results feature is working correctly with messages
+--Relevant Files (GameViewModel.swift)
+
+Notifications
+-Confirm that the notifications are working correctly
+--Relevant Files (SettingsView.swift)
