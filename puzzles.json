@@ -1,0 +1,74 @@
+{
+  "puzzles": [
+    {
+      "date": "2025-04-04",
+      "pairs": [
+        {"first": "Second", "second": "Hand"},
+        {"first": "Rock", "second": "Star"},
+        {"first": "Cold", "second": "Feet"},
+        {"first": "Broken", "second": "Heart"},
+        {"first": "Silver", "second": "Lining"}
+      ]
+    },
+    {
+      "date": "2025-04-05",
+      "pairs": [
+        {"first": "Book", "second": "Worm"},
+        {"first": "Rain", "second": "Bow"},
+        {"first": "Day", "second": "Dream"},
+        {"first": "Sun", "second": "Flower"},
+        {"first": "Air", "second": "Port"}
+      ]
+    },
+    {
+      "date": "2025-04-06",
+      "pairs": [
+        {"first": "Time", "second": "Table"},
+        {"first": "Egg", "second": "Plant"},
+        {"first": "Eye", "second": "Brow"},
+        {"first": "Door", "second": "Bell"},
+        {"first": "Water", "second": "Fall"}
+      ]
+    },
+    {
+      "date": "2025-04-07",
+      "pairs": [
+        {"first": "Side", "second": "Walk"},
+        {"first": "Moon", "second": "Light"},
+        {"first": "Foot", "second": "Ball"},
+        {"first": "Sea", "second": "Shell"},
+        {"first": "Note", "second": "Book"}
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "pairs": [
+        {"first": "Peanut", "second": "Butter"},
+        {"first": "Paper", "second": "Work"},
+        {"first": "Fire", "second": "Place"},
+        {"first": "Hand", "second": "Bag"},
+        {"first": "Star", "second": "Fish"}
+      ]
+    },
+    {
+      "date": "2025-04-09",
+      "pairs": [
+        {"first": "Home", "second": "Work"},
+        {"first": "Snow", "second": "Ball"},
+        {"first": "Back", "second": "Pack"},
+        {"first": "Week", "second": "End"},
+        {"first": "Up", "second": "Grade"}
+      ]
+    },
+    {
+      "date": "2025-04-10",
+      "pairs": [
+        {"first": "After", "second": "Noon"},
+        {"first": "Over", "second": "Head"},
+        {"first": "Cross", "second": "Road"},
+        {"first": "Ice", "second": "Cream"},
+        {"first": "Book", "second": "Mark"}
+      ]
+    }
+  ]
+}
