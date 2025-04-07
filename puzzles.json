@@ -33,11 +33,11 @@
     {
       "date": "2025-04-07",
       "pairs": [
-        {"first": "Side", "second": "Walk"},
-        {"first": "Moon", "second": "Light"},
-        {"first": "Foot", "second": "Ball"},
-        {"first": "Sea", "second": "Shell"},
-        {"first": "Note", "second": "Book"}
+        {"first": "Tooth", "second": "Brush"},
+        {"first": "Fire", "second": "Place"},
+        {"first": "Key", "second": "Hole"},
+        {"first": "Cup", "second": "Cake"},
+        {"first": "Pumpkin", "second": "Pie"}
       ]
     },
     {
